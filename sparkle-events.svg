@@ -10,7 +10,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="sparkle-log.svg"
+   sodipodi:docname="sparkle-events.svg"
    inkscape:version="0.48.1 r9760"
    version="1.1"
    id="svg2"
@@ -89,8 +89,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="369.10228"
-     inkscape:cy="674.03553"
+     inkscape:cx="345.10228"
+     inkscape:cy="753.03553"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -739,7 +739,7 @@ qjY/7jaA5bekfD7PgsHga6/Xe9E0TSuVSk8AxgCMrymfeweQ/KM1+lQ8GQAAAABJRU5ErkJggg==
          y="504.23022"
          x="93.944"
          id="tspan3628-0"
-         sodipodi:role="line">...and 42 other commits</tspan></text>
+         sodipodi:role="line">...and 42 other sparkles</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3626-0-5"
@@ -845,7 +845,7 @@ qjY/7jaA5bekfD7PgsHga6/Xe9E0TSuVSk8AxgCMrymfeweQ/KM1+lQ8GQAAAABJRU5ErkJggg==
          y="661.23022"
          x="93.944"
          id="tspan3628-0-6"
-         sodipodi:role="line">...and 12 other commits</tspan></text>
+         sodipodi:role="line">...and 12 other sparkles</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3626-0-5-2"
@@ -1217,7 +1217,7 @@ s3MFAAAAAElFTkSuQmCC
            y="199"
            style="fill:#888a85" /></flowRegion><flowPara
          id="flowPara4326"
-         style="font-size:12px;fill:#888a85">Multiple commits are collapsed, with a view all link available, and the time ago is from start to finish of the commits.</flowPara></flowRoot>    <flowRoot
+         style="font-size:12px;fill:#888a85">Multiple sparkles (commits) are collapsed, with a view all link available, and time ago is from start to finish of the sparkles.</flowPara></flowRoot>    <flowRoot
        transform="translate(-6.9999975,372.36218)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot4312"
