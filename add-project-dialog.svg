@@ -380,7 +380,7 @@
        xlink:href="#linearGradient10571"
        id="linearGradient10655"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.90909107,0,0,1,-53.63627,0.5)"
+       gradientTransform="matrix(0.91712639,0,0,1.0175679,-48.895435,-0.16593209)"
        x1="-590"
        y1="35.362183"
        x2="-590"
@@ -1704,9 +1704,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="-510.96672"
-     inkscape:cy="1007.2927"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="-562.94246"
+     inkscape:cy="1039.1744"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1440"
@@ -1760,6 +1760,15 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc"
        transform="matrix(1.0124085,0,0,1,6.7504569,0.1767767)" />
+    <path
+       style="fill:url(#linearGradient10655);fill-opacity:1;stroke:none"
+       d="m -591.04036,33.286612 c -2.21864,0 -4.00383,1.80064 -4.00383,4.038472 l 0,1.081166 3.01076,0 c -3.5e-4,-0.01097 0,-0.02075 0,-0.0318 l 0,-0.556482 c 0,-0.563733 -0.0229,-1.017568 0.53594,-1.017568 0.55889,0 0.48865,0.453835 0.48865,1.017568 l 0,0.556482 c 0,0.01105 3.5e-4,0.02083 0,0.0318 l 2.01768,0 c -3.5e-4,-0.01097 0,-0.02075 0,-0.0318 l 0,-0.556482 c 0,-0.563733 -0.0702,-1.017568 0.48865,-1.017568 0.5589,0 0.55171,0.453835 0.55171,1.017568 l 0,0.556482 c 0,0.01105 3.5e-4,0.02083 0,0.0318 l 2.99499,0 0,-1.081166 c 0,-2.237832 -1.78519,-4.038472 -4.00383,-4.038472 z"
+       id="rect10569"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssccsssssccsssssccsss"
+       inkscape:export-filename="/home/hbons/Projects/SparkleShare/data/plugins/github.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:0;fill:#abb400;fill-opacity:1;stroke:none"
        id="rect10450"
@@ -3131,15 +3140,6 @@ IYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEECKn/H8iaQb6XVsQSQAAAABJRU5ErkJggg==
        sodipodi:ry="7.3804269"
        d="m -564.67085,2.8402717 c 2.36075,3.1301423 1.98014,7.7841733 -0.8501,10.3950693 -2.83025,2.610896 -7.03839,2.189964 -9.39914,-0.940179 -0.0522,-0.06923 -0.10328,-0.139514 -0.15316,-0.210814"
        transform="matrix(-0.37462618,0,0,0.33873377,-796.46024,15.798679)"
-       inkscape:export-filename="/home/hbons/Projects/SparkleShare/data/plugins/github.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:url(#linearGradient10655);fill-opacity:1;stroke:none"
-       d="m -591.03125,33.375 c -2.1992,0 -3.96875,1.769553 -3.96875,3.96875 l 0,1.0625 2.98438,0 c -3.4e-4,-0.01078 0,-0.02039 0,-0.03125 l 0,-0.546875 c 0,-0.554 -0.0227,-1 0.53125,-1 0.554,0 0.48437,0.446 0.48437,1 l 0,0.546875 c 0,0.01086 3.4e-4,0.02047 0,0.03125 l 2,0 c -3.4e-4,-0.01078 0,-0.02039 0,-0.03125 l 0,-0.546875 c 0,-0.554 -0.0696,-1 0.48437,-1 0.554,0 0.54688,0.446 0.54688,1 l 0,0.546875 c 0,0.01086 3.4e-4,0.02047 0,0.03125 l 2.96875,0 0,-1.0625 c 0,-2.199197 -1.76955,-3.96875 -3.96875,-3.96875 z"
-       id="rect10569"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssccsssssccsssssccsss"
        inkscape:export-filename="/home/hbons/Projects/SparkleShare/data/plugins/github.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
