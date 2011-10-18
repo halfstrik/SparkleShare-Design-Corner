@@ -4294,10 +4294,10 @@
      borderopacity="0.74509804"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="617.3682"
-     inkscape:cy="243.10259"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="0.5"
+     inkscape:cx="640.33831"
+     inkscape:cy="228.23253"
+     inkscape:current-layer="layer1-5"
      showgrid="false"
      units="px"
      inkscape:window-width="1440"
@@ -4343,7 +4343,10 @@
          id="g76634"
          transform="matrix(0.94303086,1.2396339,1.2482907,-0.93649099,-1175.3905,1041.9935)"
          style="opacity:0.3;fill:#000000;fill-opacity:1"
-         clip-path="url(#clipPath76786)">
+         clip-path="url(#clipPath76786)"
+         inkscape:export-filename="/home/hbons/SparkleShare/SparkleShare-Design-Corner/android/market-banner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
         <path
            sodipodi:end="4.4505896"
            sodipodi:start="4.1887902"
