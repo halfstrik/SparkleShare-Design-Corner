@@ -30,49 +30,6 @@
          offset="1"
          style="stop-color:#3f3f3f;stop-opacity:1" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4092">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop4094" />
-      <stop
-         style="stop-color:#3a3a3a;stop-opacity:1"
-         offset="1"
-         id="stop4096" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4820"
-       id="linearGradient4098"
-       x1="437.71024"
-       y1="525.45569"
-       x2="437.71024"
-       y2="863.80792"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0019617,0,0,0.68647389,1.8913132,287.61514)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4092"
-       id="linearGradient4810"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.33346538,0,0,0.68647389,54.787046,287.61514)"
-       x1="437.71024"
-       y1="500.69565"
-       x2="437.71024"
-       y2="779.30566" />
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath8482">
-      <rect
-         style="color:#000000;fill:url(#radialGradient8486);fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect8484"
-         width="150"
-         height="400"
-         x="65.142853"
-         y="185.79074" />
-    </clipPath>
     <filter
        inkscape:collect="always"
        id="filter15758-4"
@@ -397,18 +354,6 @@
          stdDeviation="5.158893"
          id="feGaussianBlur4460" />
     </filter>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath8463">
-      <rect
-         style="color:#000000;fill:url(#radialGradient8467);fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect8465"
-         width="152.84508"
-         height="407.58688"
-         x="-293.23749"
-         y="98.366364"
-         transform="matrix(0.96592583,0.25881904,-0.25881904,0.96592583,0,0)" />
-    </clipPath>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4908"
